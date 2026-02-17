@@ -1,4 +1,4 @@
-# Java Data Processing System (Assignment Implementation)
+# Java Data Processing System
 
 This Java program implements a **multi-threaded Data Processing System** where multiple worker threads process tasks in parallel. Workers retrieve tasks from a **shared queue**, simulate computation with a delay, and write results to a **shared output resource** (an output file). The implementation is designed to avoid race conditions, prevent deadlocks, and terminate cleanly after all tasks complete.
 
