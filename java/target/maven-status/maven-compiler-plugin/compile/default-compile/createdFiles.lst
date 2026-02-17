@@ -1,0 +1,4 @@
+com\example\dataproc\Main.class
+com\example\dataproc\SharedTaskQueue.class
+com\example\dataproc\Task.class
+com\example\dataproc\Worker.class
